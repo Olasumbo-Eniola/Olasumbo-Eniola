@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Feel free to check out my repositories and star them 😎😎
+### HNG finalist
 <!--
 **Olasumbo-Eniola/Olasumbo-Eniola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
