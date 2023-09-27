@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hello, I'm [Your Name]
+# Hello, I'm Olasumbi Eniola Afolabi
 
 I'm a passionate frontend developer, currently working at a start up based in Heidelberg, Germany. I started my coding journey in 2019 and have since become a proven team player with a strong focus on frontend technologies.
 
@@ -27,7 +25,6 @@ I'm a passionate frontend developer, currently working at a start up based in He
 - Optimized website performance by strategically reducing the reliance on external libraries, enhancing load time, and improving the user experience.
 - Demonstrated expertise in frontend development by creating custom React components from scratch, utilizing SCSS modules for enhanced styling and maintainability.
 - Worked on core features like Kanban, Meeting scheduler, etc.
-- Led the frontend team and maintained a well-structured codebase.
 - Implemented API caching.
 - Collaborated with the backend team to design and implement API logic.
 
