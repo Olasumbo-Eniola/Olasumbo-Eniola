@@ -13,26 +13,6 @@ I'm a passionate frontend developer, currently working at a start up based in He
 - TypeScript
 - Git
 
-### Frontend Developer at Camea (Curagita AG) | Heidelberg, Germany
-
-- **Role:** Frontend Developer
-- **Duration:** April 2021 - Present
-- **Tools:** Next.js / SCSS / TypeScript
-
-#### Accomplishments:
-
-- Spearheaded the refactoring effort of a monolith source code, resulting in significant improvement in code maintainability and scalability.
-- Optimized website performance by strategically reducing the reliance on external libraries, enhancing load time, and improving the user experience.
-- Demonstrated expertise in frontend development by creating custom React components from scratch, utilizing SCSS modules for enhanced styling and maintainability.
-- Worked on core features like Kanban, Meeting scheduler, etc.
-- Implemented API caching.
-- Collaborated with the backend team to design and implement API logic.
-
-### Frontend Developer at Tech Innovative Solutions (Lagos, Nigeria)
-
-- **Role:** Frontend Developer (Intern)
-- **Duration:** August 2020 - October 2020
-- **Tools:** Next.js / SCSS / TypeScript
 
 ## Connect with Me
 
