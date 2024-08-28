@@ -1,4 +1,4 @@
-# Hello, I'm Olasumbi Eniola Afolabi
+# Hello, I'm Olasumbo Eniola Afolabi
 
 I'm a passionate frontend developer, currently working at a start up based in Heidelberg, Germany. I started my coding journey in 2019 and have since become a proven team player with a strong focus on frontend technologies.
 
